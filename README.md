@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Jordan! 🧙🏼
 
-<!--
-**al-jpacho/al-jpacho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Junior Data Engineer with two years of experience specialising creating insightful dashboards, developing Python automations, and maintaining data pipelines. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills & Technologies
+
+- **Programming Languages:** Python, SQL
+- **Cloud Platforms:** AWS (Amazon Web Services), Microsoft Azure
+- **Data Technologies:** [e.g. Redshift, Snowflake]
+- **Databases:** [e.g., MySQL, PostgreSQL]
+- **Tools:** [e.g., Docker, Git]
+
+## Connect with Me
+
+- **[LinkedIn](www.linkedin.com/in/jordan-pacho)**
