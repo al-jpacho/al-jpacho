@@ -38,8 +38,8 @@ With **2+ years** of experience in **data engineering**, I specialise in:
   
 <div align="center">
 
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=al-jpacho&show_icons=true&theme=tokyonight&hide=stars,issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-jpacho&layout=compact&theme=tokyonight)
+![Jordan's GitHub Stats](https://github-readme-stats-dkf1y3tua-al-jpachos-projects.vercel.app/api?username=al-jpacho&show_icons=true&theme=tokyonight&hide=stars,issues&count_private=true) 
+![Top Languages](https://github-readme-stats-dkf1y3tua-al-jpachos-projects.vercel.app/api/top-langs/?username=al-jpacho&layout=compact&theme=tokyonight)
 
 </div>
 
