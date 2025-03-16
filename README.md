@@ -1,6 +1,6 @@
 # 🚀 Hi there, I'm Jordan! 🧙🏼‍♂️
 
-<img align="right" src="https://github.com/yourusername/yourusername/blob/main/assets/coding.gif" width="250"/>
+<img align="right" src="https://github.com/al-jpacho/al-jpacho/blob/main/assets/coding.gif" width="250"/>
 
 🎯 **Data Engineer | Python Enthusiast | Cloud Practitioner**  
 
@@ -38,8 +38,8 @@ With **2+ years** of experience in **data engineering**, I specialise in:
   
 <div align="center">
 
-![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide=stars,issues)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Jordan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=al-jpacho&show_icons=true&theme=tokyonight&hide=stars,issues)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al-jpacho&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -48,5 +48,5 @@ With **2+ years** of experience in **data engineering**, I specialise in:
 ## 📬 Connect with Me
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jordan%20Pacho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordan-pacho)  
-[![GitHub](https://img.shields.io/badge/GitHub-Jordan%20Pacho-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Jordan%20Pacho-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/al-jpacho)
 
