@@ -2,15 +2,14 @@
 
 <img align="right" src="https://github.com/al-jpacho/al-jpacho/blob/main/assets/coding.gif" width="250"/>
 
-🎯 **Data Engineer | Python Enthusiast | Cloud Practitioner**  
+🛠️ **Data Engineer | Python Enthusiast | Cloud Practitioner**  
 
 With **2+ years** of experience in **data engineering**, I specialise in:  
-✅ **Building data pipelines**  
-✅ **Developing Python automations**  
-✅ **Creating insightful dashboards**  
+**Building data pipelines**  
+**Developing Python automations**  
+**Creating insightful dashboards**  
 
 📍 Currently working at **Mental Health Innovations**  
-🌍 Aspiring to work in **NYC**  
 
 ---
 
@@ -38,10 +37,15 @@ With **2+ years** of experience in **data engineering**, I specialise in:
   
 <div align="center">
 
-![Jordan's GitHub Stats](https://github-readme-stats-gamma-woad-95.vercel.app/api?username=al-jpacho&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats-gamma-woad-95.vercel.app/api/top-langs/?username=al-jpacho&layout=compact&theme=tokyonight&count_private=true)
+<a href="https://github.com/al-jpacho/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-gamma-woad-95.vercel.app/api?username=al-jpacho&show_icons=true&theme=tokyonight&count_private=true" />
+</a>
+<a href="https://github.com/al-jpacho">
+  <img height=200 align="center" src="https://github-readme-stats-gamma-woad-95.vercel.app/api/top-langs/?username=al-jpacho&layout=compact&theme=tokyonight&count_private=true&langs_count=8&card_width=320" />
+</a>
 
 </div>
+
 
 ---
 
