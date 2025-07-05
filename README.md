@@ -1,4 +1,4 @@
-# 🚀 Hi there, I'm Jordan! 🧙🏼‍♂️
+# Hi there, I'm Jordan! 🧙🏼‍♂️
 
 <img align="right" src="https://github.com/al-jpacho/al-jpacho/blob/main/assets/coding.gif" width="250"/>
 
@@ -10,6 +10,12 @@ With **2+ years** of experience in **data engineering**, I specialise in:
 **Creating insightful dashboards**  
 
 📍 Currently working at **Mental Health Innovations**  
+
+### ✍️ Medium Blog
+
+[![Medium](https://img.shields.io/badge/Medium-Jordan%20Pacho-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@al-jpacho)
+
+I occasionally write about data engineering, programming, and the lessons I’ve learned transitioning into tech — from building scalable pipelines and automations to navigating the cloud and growing as an engineer.
 
 ---
 
