@@ -4,7 +4,7 @@
 
 🛠️ **Data Engineer | Python Enthusiast | Cloud Practitioner**  
 
-With **2+ years** of experience in **data engineering**, I specialise in:  
+With **3 years** of experience in **data engineering**, I specialise in:  
 **Building data pipelines**  
 **Developing Python automations**  
 **Creating insightful dashboards**  
